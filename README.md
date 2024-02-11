@@ -5,8 +5,7 @@
 
 ![Alt text](https://github.com/g0dEngineer/NEURAL_NETWORK_NIGHT_PRACTICE_FEB_2024/blob/main/source_code/screenshot_neural_net_result_0_0.png "default page")
   
-![Alt text](https://github.com/g0dEngineer//NEURAL_NETWORK_NIGHT_PRACTICE_FEB_2024/blob/main/source_code/screenshot_neural_net_result_0_1.png "default page")
-  
+![Alt text](https://github.com/g0dEngineer/NEURAL_NETWORK_NIGHT_PRACTICE_FEB_2024/blob/main/source_code/screenshot_neural_net_result_0_1.png "default page")
   
 NEURAL_NETWORK_PRACTICE_2024_FEB
 Simple artificial neural network written from memory/scratch by God in java.
